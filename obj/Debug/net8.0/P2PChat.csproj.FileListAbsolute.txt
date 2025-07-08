@@ -1,0 +1,14 @@
+C:\Users\81704\Documents\GitHub\P2PChat\bin\Debug\net8.0\P2PChat.exe
+C:\Users\81704\Documents\GitHub\P2PChat\bin\Debug\net8.0\P2PChat.deps.json
+C:\Users\81704\Documents\GitHub\P2PChat\bin\Debug\net8.0\P2PChat.runtimeconfig.json
+C:\Users\81704\Documents\GitHub\P2PChat\bin\Debug\net8.0\P2PChat.dll
+C:\Users\81704\Documents\GitHub\P2PChat\bin\Debug\net8.0\P2PChat.pdb
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.AssemblyInfoInputs.cache
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.AssemblyInfo.cs
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.csproj.CoreCompileInputs.cache
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.dll
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\refint\P2PChat.dll
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.pdb
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\P2PChat.genruntimeconfig.cache
+C:\Users\81704\Documents\GitHub\P2PChat\obj\Debug\net8.0\ref\P2PChat.dll
